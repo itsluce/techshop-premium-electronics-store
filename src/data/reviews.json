@@ -1,0 +1,473 @@
+{
+  "phone-001": [
+    {
+      "id": "rev-ph001-1",
+      "userName": "Sarah Johnson",
+      "rating": 5,
+      "comment": "The titanium design feels incredibly premium and the camera quality is outstanding! The A17 Pro chip handles everything I throw at it with ease.",
+      "date": "2024-11-15T14:23:00Z",
+      "verifiedPurchase": true,
+      "helpful": 24
+    },
+    {
+      "id": "rev-ph001-2",
+      "userName": "Marcus Chen",
+      "rating": 5,
+      "comment": "Best iPhone I've ever owned. The battery life is exceptional and the display is gorgeous. ProRes video recording is a game-changer for content creators.",
+      "date": "2024-10-28T09:45:00Z",
+      "verifiedPurchase": true,
+      "helpful": 18
+    },
+    {
+      "id": "rev-ph001-3",
+      "userName": "Emily Rodriguez",
+      "rating": 4,
+      "comment": "Excellent phone overall, but I wish the zoom capabilities were better. The Action button is more useful than I expected!",
+      "date": "2024-11-02T16:12:00Z",
+      "verifiedPurchase": false,
+      "helpful": 12
+    },
+    {
+      "id": "rev-ph001-4",
+      "userName": "James Anderson",
+      "rating": 5,
+      "comment": "The titanium sides make it noticeably lighter than my old phone. Camera upgrades are impressive, especially for low-light photography.",
+      "date": "2024-09-20T11:30:00Z",
+      "verifiedPurchase": true,
+      "helpful": 31
+    }
+  ],
+  "phone-002": [
+    {
+      "id": "rev-ph002-1",
+      "userName": "David Kim",
+      "rating": 5,
+      "comment": "The S Pen integration is seamless and the 200MP camera produces stunning detail. Best Android phone I've used!",
+      "date": "2024-10-15T10:20:00Z",
+      "verifiedPurchase": true,
+      "helpful": 19
+    },
+    {
+      "id": "rev-ph002-2",
+      "userName": "Isabella Martinez",
+      "rating": 4,
+      "comment": "Amazing display and performance. Battery lasts all day with heavy use. Only wish it came with a charger in the box.",
+      "date": "2024-11-08T15:45:00Z",
+      "verifiedPurchase": true,
+      "helpful": 15
+    },
+    {
+      "id": "rev-ph002-3",
+      "userName": "Thomas Wright",
+      "rating": 5,
+      "comment": "Snapdragon 8 Gen 3 is blazing fast! Gaming performance is incredible and the cooling system works great.",
+      "date": "2024-09-12T08:33:00Z",
+      "verifiedPurchase": false,
+      "helpful": 22
+    }
+  ],
+  "phone-003": [
+    {
+      "id": "rev-ph003-1",
+      "userName": "Olivia Thompson",
+      "rating": 5,
+      "comment": "Google's AI features are mind-blowing. The Magic Eraser and Photo Unblur work like magic. Pure Android experience is so smooth!",
+      "date": "2024-11-01T12:15:00Z",
+      "verifiedPurchase": true,
+      "helpful": 28
+    },
+    {
+      "id": "rev-ph003-2",
+      "userName": "Ryan Foster",
+      "rating": 4,
+      "comment": "Great computational photography and clean software. Battery life could be better but the fast charging helps.",
+      "date": "2024-10-22T14:50:00Z",
+      "verifiedPurchase": true,
+      "helpful": 11
+    },
+    {
+      "id": "rev-ph003-3",
+      "userName": "Sophia Lee",
+      "rating": 5,
+      "comment": "Love the Tensor G3 chip features! Call screening and live translate are incredibly useful. Camera takes amazing photos effortlessly.",
+      "date": "2024-09-18T09:25:00Z",
+      "verifiedPurchase": false,
+      "helpful": 17
+    }
+  ],
+  "laptop-001": [
+    {
+      "id": "rev-lap001-1",
+      "userName": "Alex Martinez",
+      "rating": 5,
+      "comment": "The M3 Max chip is an absolute beast for video editing! 4K timeline scrubbing is butter smooth. Display is stunning for color grading.",
+      "date": "2024-11-10T11:40:00Z",
+      "verifiedPurchase": true,
+      "helpful": 42
+    },
+    {
+      "id": "rev-lap001-2",
+      "userName": "Jennifer Park",
+      "rating": 5,
+      "comment": "Perfect for my design work. Runs Adobe Creative Suite flawlessly. Battery life is impressive even under heavy load.",
+      "date": "2024-10-25T15:20:00Z",
+      "verifiedPurchase": true,
+      "helpful": 35
+    },
+    {
+      "id": "rev-lap001-3",
+      "userName": "Michael Brown",
+      "rating": 4,
+      "comment": "Incredible performance and build quality. Only downside is the price, but worth it for professional work.",
+      "date": "2024-10-05T09:15:00Z",
+      "verifiedPurchase": true,
+      "helpful": 21
+    },
+    {
+      "id": "rev-lap001-4",
+      "userName": "Rachel Green",
+      "rating": 5,
+      "comment": "As a software developer, this machine compiles code incredibly fast. Multiple Docker containers run smoothly without any lag.",
+      "date": "2024-09-28T13:55:00Z",
+      "verifiedPurchase": true,
+      "helpful": 29
+    }
+  ],
+  "laptop-002": [
+    {
+      "id": "rev-lap002-1",
+      "userName": "Daniel Harris",
+      "rating": 4,
+      "comment": "The OLED display is absolutely gorgeous! Colors are vibrant and blacks are true. Build quality feels premium.",
+      "date": "2024-11-05T14:30:00Z",
+      "verifiedPurchase": true,
+      "helpful": 16
+    },
+    {
+      "id": "rev-lap002-2",
+      "userName": "Laura Wilson",
+      "rating": 5,
+      "comment": "Perfect Windows laptop for professionals. InfinityEdge design is beautiful and the keyboard is comfortable for long typing sessions.",
+      "date": "2024-10-18T10:45:00Z",
+      "verifiedPurchase": false,
+      "helpful": 13
+    },
+    {
+      "id": "rev-lap002-3",
+      "userName": "Kevin Nguyen",
+      "rating": 4,
+      "comment": "Great performance and portability. Fans can get a bit loud under heavy load but overall excellent laptop.",
+      "date": "2024-09-22T16:20:00Z",
+      "verifiedPurchase": true,
+      "helpful": 9
+    }
+  ],
+  "laptop-003": [
+    {
+      "id": "rev-lap003-1",
+      "userName": "Amanda Clark",
+      "rating": 5,
+      "comment": "Best business laptop hands down! The keyboard is legendary - so comfortable for all-day typing. Military-grade durability gives peace of mind.",
+      "date": "2024-10-12T11:25:00Z",
+      "verifiedPurchase": true,
+      "helpful": 27
+    },
+    {
+      "id": "rev-lap003-2",
+      "userName": "Christopher Lee",
+      "rating": 4,
+      "comment": "Incredibly lightweight at 2.48 lbs! Battery lasts through a full workday. Perfect for frequent travelers.",
+      "date": "2024-09-30T15:10:00Z",
+      "verifiedPurchase": true,
+      "helpful": 14
+    },
+    {
+      "id": "rev-lap003-3",
+      "userName": "Michelle Santos",
+      "rating": 5,
+      "comment": "TrackPoint is still the best pointing device ever made. Build quality is exceptional and it's whisper quiet.",
+      "date": "2024-11-20T09:50:00Z",
+      "verifiedPurchase": false,
+      "helpful": 19
+    }
+  ],
+  "laptop-004": [
+    {
+      "id": "rev-lap004-1",
+      "userName": "Brandon Taylor",
+      "rating": 5,
+      "comment": "Gaming powerhouse in a compact form factor! RTX 4060 handles all my games at high settings. The 120Hz display is so smooth.",
+      "date": "2024-11-12T16:40:00Z",
+      "verifiedPurchase": true,
+      "helpful": 33
+    },
+    {
+      "id": "rev-lap004-2",
+      "userName": "Jessica Moore",
+      "rating": 4,
+      "comment": "Perfect blend of performance and portability. Can game and do creative work. Battery life in gaming mode is limited though.",
+      "date": "2024-10-20T13:15:00Z",
+      "verifiedPurchase": true,
+      "helpful": 18
+    },
+    {
+      "id": "rev-lap004-3",
+      "userName": "Tyler Anderson",
+      "rating": 5,
+      "comment": "The Ryzen 9 7940HS is incredibly fast! Thermals are well-managed. AniMe Matrix display on the lid is a cool touch.",
+      "date": "2024-09-15T10:30:00Z",
+      "verifiedPurchase": true,
+      "helpful": 25
+    }
+  ],
+  "headphones-001": [
+    {
+      "id": "rev-hp001-1",
+      "userName": "Nathan Rodriguez",
+      "rating": 5,
+      "comment": "Best noise cancellation I've ever experienced! Perfect for flights and commuting. Sound quality is exceptional across all genres.",
+      "date": "2024-11-08T14:20:00Z",
+      "verifiedPurchase": true,
+      "helpful": 41
+    },
+    {
+      "id": "rev-hp001-2",
+      "userName": "Samantha White",
+      "rating": 5,
+      "comment": "So comfortable for all-day wear. 30-hour battery life is no joke - lasts almost a week for me. ANC is magical!",
+      "date": "2024-10-15T11:35:00Z",
+      "verifiedPurchase": true,
+      "helpful": 36
+    },
+    {
+      "id": "rev-hp001-3",
+      "userName": "Eric Johnson",
+      "rating": 4,
+      "comment": "Excellent headphones overall. Touch controls take some getting used to but work well once you learn them.",
+      "date": "2024-10-28T09:50:00Z",
+      "verifiedPurchase": true,
+      "helpful": 22
+    },
+    {
+      "id": "rev-hp001-4",
+      "userName": "Maria Garcia",
+      "rating": 5,
+      "comment": "Worth every penny! The speak-to-chat feature is incredibly convenient. Sound quality rivals much more expensive headphones.",
+      "date": "2024-09-25T15:10:00Z",
+      "verifiedPurchase": false,
+      "helpful": 28
+    }
+  ],
+  "headphones-002": [
+    {
+      "id": "rev-hp002-1",
+      "userName": "Andrew Kim",
+      "rating": 5,
+      "comment": "Seamless integration with my iPhone and Mac! Adaptive Audio is brilliant - automatically adjusts to my environment. Spatial Audio is mind-blowing.",
+      "date": "2024-11-03T10:25:00Z",
+      "verifiedPurchase": true,
+      "helpful": 38
+    },
+    {
+      "id": "rev-hp002-2",
+      "userName": "Lisa Chen",
+      "rating": 4,
+      "comment": "Great sound quality and ANC for the size. Transparency mode is natural. Wish the battery lasted a bit longer per charge.",
+      "date": "2024-10-19T14:45:00Z",
+      "verifiedPurchase": true,
+      "helpful": 24
+    },
+    {
+      "id": "rev-hp002-3",
+      "userName": "Robert Thompson",
+      "rating": 5,
+      "comment": "Perfect fit and excellent call quality. The charging case is compact and premium-feeling. Find My integration saved me once already!",
+      "date": "2024-09-17T12:30:00Z",
+      "verifiedPurchase": true,
+      "helpful": 31
+    }
+  ],
+  "headphones-003": [
+    {
+      "id": "rev-hp003-1",
+      "userName": "Victoria Miller",
+      "rating": 5,
+      "comment": "CustomTune ANC is incredibly effective! Immersive audio mode makes music feel like a live performance. So comfortable!",
+      "date": "2024-10-30T11:15:00Z",
+      "verifiedPurchase": true,
+      "helpful": 26
+    },
+    {
+      "id": "rev-hp003-2",
+      "userName": "Gregory Martinez",
+      "rating": 4,
+      "comment": "Bose delivers again with excellent comfort and ANC. Sound signature is balanced and pleasant for long listening sessions.",
+      "date": "2024-10-08T15:40:00Z",
+      "verifiedPurchase": false,
+      "helpful": 15
+    },
+    {
+      "id": "rev-hp003-3",
+      "userName": "Nicole Davis",
+      "rating": 5,
+      "comment": "24-hour battery life is perfect for my needs. Build quality is premium and the app offers great customization options.",
+      "date": "2024-09-20T09:25:00Z",
+      "verifiedPurchase": true,
+      "helpful": 18
+    }
+  ],
+  "headphones-004": [
+    {
+      "id": "rev-hp004-1",
+      "userName": "William Cooper",
+      "rating": 5,
+      "comment": "Audiophile dream headphones! Open-back design creates an incredible soundstage. Detail retrieval is phenomenal for mixing and mastering.",
+      "date": "2024-11-01T13:50:00Z",
+      "verifiedPurchase": true,
+      "helpful": 29
+    },
+    {
+      "id": "rev-hp004-2",
+      "userName": "Rebecca Hall",
+      "rating": 5,
+      "comment": "Reference-quality sound! The 42mm drivers deliver crisp highs and tight bass. Perfect for critical listening and production work.",
+      "date": "2024-10-11T10:30:00Z",
+      "verifiedPurchase": true,
+      "helpful": 23
+    },
+    {
+      "id": "rev-hp004-3",
+      "userName": "Patrick O'Brien",
+      "rating": 4,
+      "comment": "Excellent sound quality but remember these are open-back - not for noisy environments. Build quality is solid, detachable cable is convenient.",
+      "date": "2024-09-13T16:15:00Z",
+      "verifiedPurchase": false,
+      "helpful": 12
+    }
+  ],
+  "camera-001": [
+    {
+      "id": "rev-cam001-1",
+      "userName": "Jonathan Scott",
+      "rating": 5,
+      "comment": "The 33MP sensor is perfect for my needs! Autofocus is lightning-fast and accurate. 4K 60p 10-bit video quality is stunning.",
+      "date": "2024-11-06T12:40:00Z",
+      "verifiedPurchase": true,
+      "helpful": 37
+    },
+    {
+      "id": "rev-cam001-2",
+      "userName": "Catherine Brown",
+      "rating": 5,
+      "comment": "Best hybrid camera on the market! Equally great for photos and videos. Battery life is excellent and the menu system is intuitive.",
+      "date": "2024-10-21T14:55:00Z",
+      "verifiedPurchase": true,
+      "helpful": 32
+    },
+    {
+      "id": "rev-cam001-3",
+      "userName": "Brian Wilson",
+      "rating": 4,
+      "comment": "Fantastic camera with amazing features. 5-axis IBIS works wonderfully. Wish it had a built-in flash though.",
+      "date": "2024-10-02T09:20:00Z",
+      "verifiedPurchase": true,
+      "helpful": 19
+    },
+    {
+      "id": "rev-cam001-4",
+      "userName": "Diana Martinez",
+      "rating": 5,
+      "comment": "Coming from the A7 III, this is a huge upgrade! Eye-tracking AF never misses. Perfect for wedding photography and videography.",
+      "date": "2024-09-16T15:30:00Z",
+      "verifiedPurchase": true,
+      "helpful": 28
+    }
+  ],
+  "camera-002": [
+    {
+      "id": "rev-cam002-1",
+      "userName": "Steven Anderson",
+      "rating": 5,
+      "comment": "40fps electronic shutter is insane for sports photography! Never miss a shot. Dual Pixel AF II is incredibly reliable.",
+      "date": "2024-11-02T11:25:00Z",
+      "verifiedPurchase": true,
+      "helpful": 34
+    },
+    {
+      "id": "rev-cam002-2",
+      "userName": "Angela Turner",
+      "rating": 4,
+      "comment": "Excellent low-light performance! The 24MP sensor handles high ISO beautifully. 6K RAW video opens up amazing post-production possibilities.",
+      "date": "2024-10-14T13:45:00Z",
+      "verifiedPurchase": true,
+      "helpful": 21
+    },
+    {
+      "id": "rev-cam002-3",
+      "userName": "Marcus Thompson",
+      "rating": 5,
+      "comment": "Canon nails it again! Build quality is professional-grade. Perfect for hybrid shooters who need both photo and video excellence.",
+      "date": "2024-09-19T10:15:00Z",
+      "verifiedPurchase": false,
+      "helpful": 26
+    }
+  ],
+  "camera-003": [
+    {
+      "id": "rev-cam003-1",
+      "userName": "Julia Roberts",
+      "rating": 5,
+      "comment": "The film simulations are gorgeous! Classic chrome and Velvia look amazing straight out of camera. 40MP is perfect for landscape photography.",
+      "date": "2024-10-27T14:20:00Z",
+      "verifiedPurchase": true,
+      "helpful": 31
+    },
+    {
+      "id": "rev-cam003-2",
+      "userName": "Peter Walsh",
+      "rating": 4,
+      "comment": "Love the retro design and physical dials! Makes shooting more enjoyable. Image quality is exceptional, especially the color science.",
+      "date": "2024-10-09T11:40:00Z",
+      "verifiedPurchase": true,
+      "helpful": 17
+    },
+    {
+      "id": "rev-cam003-3",
+      "userName": "Monica Patel",
+      "rating": 5,
+      "comment": "X-Trans sensor produces beautiful files! 6.2K video is great for content creation. Compact size makes it perfect for travel.",
+      "date": "2024-09-24T15:55:00Z",
+      "verifiedPurchase": true,
+      "helpful": 23
+    }
+  ],
+  "camera-004": [
+    {
+      "id": "rev-cam004-1",
+      "userName": "Richard Evans",
+      "rating": 5,
+      "comment": "Professional workhorse! 120fps JPEG burst is unmatched for sports and wildlife. The buffer is truly unlimited - mind-blowing!",
+      "date": "2024-11-09T12:30:00Z",
+      "verifiedPurchase": true,
+      "helpful": 42
+    },
+    {
+      "id": "rev-cam004-2",
+      "userName": "Christine Lee",
+      "rating": 5,
+      "comment": "Worth every dollar for professional work! 8K 60p video is future-proof. Build quality is tank-like, weather sealing is impressive.",
+      "date": "2024-10-17T10:15:00Z",
+      "verifiedPurchase": true,
+      "helpful": 38
+    },
+    {
+      "id": "rev-cam004-3",
+      "userName": "George Miller",
+      "rating": 4,
+      "comment": "Amazing camera but very heavy to carry all day. The 45.7MP stacked sensor produces stunning images with zero rolling shutter.",
+      "date": "2024-09-11T14:50:00Z",
+      "verifiedPurchase": true,
+      "helpful": 27
+    }
+  ]
+}
